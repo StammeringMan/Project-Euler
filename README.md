@@ -4,7 +4,7 @@ Problems of Project Euler in JavaScript
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
-Problem 1: Multiples of 3 and 5
+Problem1: Multiples of 3 and 5
 
 function sum(){
   var n = [];
